@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: User-Service
+eureka:
+  instance:
+    hostname: localhost
+my:
+  greeting: Hello Hardik
